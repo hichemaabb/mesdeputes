@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bleu">#3F51B5</color> <!-- Vous pouvez ajuster cette couleur selon vos préférences -->
+    <color name="blanc">#FFFFFF</color>
+    <color name="gris_fonce">#333333</color>
+    <color name="gris_clair">#F5F5F5</color>
+</resources>
